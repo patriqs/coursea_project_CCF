@@ -7,4 +7,6 @@ https://gist.github.com/patriqs/88ab5e10e3060dd35191aca37aa087f8
 ## PICs
 ![image](https://user-images.githubusercontent.com/94746839/142727926-71e3e785-7356-4d30-b76a-d6d1f9a18087.png)
 ## Create video documentation
-* software: Zoom Loom 
+* software: Zoom Loom Camtasia
+* res 1080p
+* 30s to 2,5min
